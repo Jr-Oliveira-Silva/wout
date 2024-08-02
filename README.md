@@ -1,16 +1,11 @@
-# wout
+# Wout
 
-A new Flutter project.
+## 🚧 This app is still being developed!!! 🚧
 
-## Getting Started
+The app will be used for users in gym trainings, to register the activities and ask for help, whenever they needs assistance.
 
-This project is a starting point for a Flutter application.
+The app will have the following features:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ - Auth process login/register;
+ - Start training;
+ - Training section which will allow users to ask for help during trainings, and list all trainings done.
